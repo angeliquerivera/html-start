@@ -33,3 +33,7 @@
 - JS: defines the functionality and behaviors available in the web content
 
 ### Hamburger in a restaurant
+
+## Package.JSON
+
+- package.json: the "heart" of any node project. It records important data about the current project you're working on. Also defines the dependencies you need, the scripts that are available, and where the entry point to the package is.
