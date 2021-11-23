@@ -37,3 +37,16 @@
 ## Package.JSON
 
 - package.json: the "heart" of any node project. It records important data about the current project you're working on. Also defines the dependencies you need, the scripts that are available, and where the entry point to the package is.
+
+## CSS
+
+- CSS: stands for Cascading Style Sheets.
+- "cascading" comes from the specified priority scheme that is used to determine which style applies if more than one rule matches a particular element.
+
+### Selectors
+
+What is a selector? Give some examples.
+
+- Selector selects the elements that you want to style.
+- Examples: div, p, a, h1-h6
+- ID selectors are meant to be a one time used thing. You are not supposed to have more than one ID selector throughout the code/content. IDs are meant to be unique.
